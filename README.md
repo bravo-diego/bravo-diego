@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diego 🔹 Hola, soy Diego 🔹 Привет, Я Диего ✌</h1>
+<h1 align="center">Hi, I'm Diego | Hola, soy Diego | Привет, Я Диего ✌</h1>
 
 ## About me 
 
