@@ -1,4 +1,4 @@
-# 🔤 Hello world! 🔤❗
+<h1 align="center">Hi, I'm Diego 🔹 Hola, soy Diego 🔹 Привет, Я Диего ✌</h1>
 
 ## About me 
 
@@ -7,7 +7,9 @@
 I'm a molecular biologist who decided to move on to data science field. Troughthout last year  I focused on developing my data skills through courses and certifications such as __Google Data Analytics Professional Certificate__ and __Excel Skills for Business__. 
 
 Currently I'm enhancing my Python programming skills through __Applied Data Science with Python__ and __Statistics with Python__ specializations. Also I'm improving my data visualization skills in Tableau, you can see my  vizzes [here](https://public.tableau.com/app/profile/diego.godinez.bravo).
-At the same time I'm looking for a master degree program in Statistics or Bioinformatics, hoping being enrolled in a program by the end of year. 
+At the same time I'm looking for a master degree program in Statistics or Bioinformatics, hoping to be enrolled in a program by the end of the year. 
+
+Thus my goals are increase my knowledge in statistics and data visualization tools, develop an expertise in Python programming language and its most useful and popular data science libraries, and apply that knowledge to personal projects trying to solve real-world business problems in order to create a full-time career in data analytics.
 
 ***
 
