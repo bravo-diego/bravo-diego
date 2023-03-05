@@ -13,7 +13,7 @@ Thus my goals are increase my knowledge in statistics and data visualization too
 
 ***
 
-🔧 Languages and tools
+Languages and tools 🔧 
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
