@@ -2,11 +2,11 @@
 
 ## About me 
 
-**`Molecular Biologist / Statistician`**
+**`MSc student Statistical Computing @ CIMAT Monterrey | Data Science`**
 
 I'm a molecular biologist who decided to move on to data science field. Troughthout last year I focused on developing my data skills through courses and certifications such as __Google Data Analytics Professional Certificate__ and __Excel Skills for Business__. 
 
-Currently I'm studying a master's degree program in __Computational Statistics__ in _Center for Mathematical Research_ ([CIMAT](https://www.linkedin.com/company/cimat/?originalSubdomain=mx)). 
+Currently I'm studying a master's degree program in __Computational Statistics__ in _Mathematics Research Center_ ([CIMAT](https://www.linkedin.com/company/cimat/?originalSubdomain=mx)). 
 
 At the same time I'm focused on improving my Data Analytics skills and developing an expertise in Python Programming language and its most useful and popular data science libraries through __Applied Data Science with Python Specialization__. Also I'm trying to improve my Data Visualization skills in __Tableau__ (click [here](https://public.tableau.com/app/profile/diego.godinez.bravo) to see my vizzes).
 
