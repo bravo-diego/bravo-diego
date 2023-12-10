@@ -2,7 +2,7 @@
 
 ## About me 
 
-**`MSc student Statistical Computing @ CIMAT Monterrey | Data Science`**
+**`MSc student Statistical Computing @ CIMAT Monterrey`**
 
 I'm a molecular biologist who decided to move on to data science field. Troughthout last year I focused on developing my data skills through courses and certifications such as __Google Data Analytics Professional Certificate__ and __Excel Skills for Business__. 
 
