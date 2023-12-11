@@ -2,13 +2,13 @@
 
 ## About me 
 
-**`MSc student Statistical Computing @ CIMAT Monterrey`**
+**`MSc Student Statistical Computing @ CIMAT Monterrey`**
 
-I'm a molecular biologist who decided to move on to data science field. Troughthout last year I focused on developing my data skills through courses and certifications such as __Google Data Analytics Professional Certificate__ and __Excel Skills for Business__. 
+I'm a molecular biologist who decided to move on to data science field. Troughthout last years I focused on developing my data skills through courses and certifications such as __Google Data Analytics Professional Certificate__ and __Excel Skills for Business__. 
 
-Currently I'm studying a master's degree program in __Statistical Computing__ Applied to Data Science in _Mathematics Research Center_ ([CIMAT](https://www.linkedin.com/company/cimat/?originalSubdomain=mx)). 
+Currently I'm a full-time student of a master's degree program in Statistical Computing Applied to Data Science at _Mathematics Research Center_ ([CIMAT](https://www.cimat.mx/nuestras-sedes/sede-monterrey/) Monterrey). 
 
-At the same time I'm focused on improving my Data Analytics skills and developing an expertise in Python Programming language and its most useful and popular data science libraries through __Applied Data Science with Python Specialization__. Also I'm trying to improve my Data Visualization skills in __Tableau__ (click [here](https://public.tableau.com/app/profile/diego.godinez.bravo) to see my vizzes).
+At the same time I'm focused on improving my Data Analytics skills and developing an expertise in Python Programming language and its most useful and popular data science libraries through __Applied Data Science with Python__ and __Statistics with Python__ Specializations. Also I'm trying to improve my Data Visualization skills in __Tableau__ (click [here](https://public.tableau.com/app/profile/diego.godinez.bravo) to see my vizzes).
 
 Since my main goal is to create an online portfolio to show up my knowledge and try to solve real-world business problems, I'm creating this profile so you can see my learning path and growth as a data profesional.
 
