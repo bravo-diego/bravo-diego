@@ -2,17 +2,17 @@
 
 ## About me 
 
-**`MSc Student Statistical Computing @ CIMAT Monterrey`**
+**`MSc Student Statistical Computing @ CIMAT`**
 
-I'm a molecular biologist who decided to move on to data science field. Troughthout last years I focused on developing my data skills through courses and certifications such as __Google Data Analytics Professional Certificate__ and __Excel Skills for Business__. 
+I’m a former molecular biologist who transitioned into data science field. Currently, I'm pursuing a master’s degree in Statistical Computing Applied to Data Science at _Mathematics Research Center_ (more info at [*Maestria en Computo Estadistico CIMAT Monterrey*](https://mce.cimat.mx/es)), where I've been developed a deep understanding in data analysis, statistical learning, machine learning, deep learning, and big data frameworks. My background in biology allows me to bring a unique interdisciplinary perspective to data-driven projects.
 
-Currently I'm a full-time student of a master's degree program in Statistical Computing Applied to Data Science at _Mathematics Research Center_ ([CIMAT](https://www.cimat.mx/nuestras-sedes/sede-monterrey/) Monterrey). 
-
-At the same time I'm focused on improving my Data Analytics skills and developing an expertise in Python Programming language and its most useful and popular data science libraries through __Applied Data Science with Python__ and __Statistics with Python__ Specializations. Also I'm trying to improve my Data Visualization skills in __Tableau__ (click [here](https://public.tableau.com/app/profile/diego.godinez.bravo) to see my vizzes).
+At the same time, I'm focused on deepening my understanding of statistical theory, improving my data analytics skills, and developing expertise in Python programming through specializations like _Statistics with Python_ series and Kaggle competitions. I'm also working on improving my data visualization skills using Tableau  (click [here](https://public.tableau.com/app/profile/diego.godinez.bravo) to see my vizzes).
 
 Since my main goal is to create an online portfolio to show up my knowledge and try to solve real-world business problems, I'm creating this profile so you can see my learning path and growth as a data profesional.
 
-If you’re transitioning to data analytics like me, follow and let’s grow togheter 💐
+If you’re transitioning to data analytics like me, follow and let’s grow togheter! 💐
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bravo-diego/).
 
 ***
 
@@ -21,8 +21,8 @@ If you’re transitioning to data analytics like me, follow and let’s grow tog
 #### 🗒 Programming Languages 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 #### 🖥 Data Science/ML
@@ -35,6 +35,7 @@ If you’re transitioning to data analytics like me, follow and let’s grow tog
 ### 💻 IDEs
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 #### 🎛 Operating System
 
