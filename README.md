@@ -4,9 +4,9 @@
 
 **`MSc Student Statistical Computing @ CIMAT`**
 
-I’m a former molecular biologist who transitioned into data science field. Currently, I'm pursuing a master’s degree in Statistical Computing Applied to Data Science at _Mathematics Research Center_ (more info at [*Maestria en Computo Estadistico CIMAT Monterrey*](https://mce.cimat.mx/es)), where I've been developed a deep understanding in data analysis, statistical learning methods, machine learning and deep learning models, and big data frameworks. My background in biology allows me to bring a unique interdisciplinary perspective to data-driven projects.
+I'm a data scientist with a strong interdisciplinary background, currently pursuing a master’s degree in Statistical Computing Applied to Data Science at _Mathematics Research Center_ (more info at [*Maestria en Computo Estadistico CIMAT Monterrey*](https://mce.cimat.mx/es)). My expertise lies in statistical learning methods, machine learning and deep learning models, and big data frameworks. I'm particularly interested in leveraging these skills to develop scalable IT solutions, analyze complex data, and drive innovation in industries such as bioinformatics, healthcare, pharmaceutical research, and IT.
 
-At the same time, I'm focused on deepening my understanding of statistical theory, improving my data analytics skills, and developing expertise in Python programming through specializations like _Statistics with Python_ and Kaggle competitions. I'm also working on improving my data visualization skills using Tableau  (click [here](https://public.tableau.com/app/profile/diego.godinez.bravo) to see my vizzes).
+At the same time, I'm trying to learn about cloud services by pursuing the *Microsoft Azure Data Scientist Associate (DP-100) Exam Prep* professional certificate and expand my knowledge in advanced deep learning topics with the *IBM Deep Learning with PyTorch, Keras, and TensorFlow* specialization. I'm also working on improving my data visualization skills using Tableau (click [here](https://public.tableau.com/app/profile/diego.godinez.bravo) to see my vizzes).
 
 Since my main goal is to create an online portfolio to show up my knowledge and try to solve real-world business problems, I'm creating this profile so you can see my learning path and growth as a data profesional.
 
