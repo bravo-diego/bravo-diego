@@ -2,7 +2,7 @@
 
 ## About me 😄
 
-**`MSc Student Statistical Computing @ CIMAT | Machine Learning & Big Data Enthusiast`**
+**`Data Scientist | MSc Statistical Computing @ CIMAT`**
 
 I'm a data scientist with a strong interdisciplinary background, currently pursuing a master’s degree in Statistical Computing Applied to Data Science at _Mathematics Research Center_ (more info at [*Maestria en Computo Estadistico CIMAT Monterrey*](https://mce.cimat.mx/es)). My expertise lies in statistical learning methods, machine learning models, and big data frameworks. I'm particularly interested in leveraging these skills to develop scalable IT solutions, analyze complex data, and drive innovation in industries such as bioinformatics, healthcare, pharmaceutical research, and IT.
 
@@ -24,8 +24,9 @@ If you’re transitioning to data analytics like me, follow and let’s grow tog
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
