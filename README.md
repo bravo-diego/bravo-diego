@@ -4,11 +4,11 @@
 
 **`Data Scientist | MSc Statistical Computing @ CIMAT`**
 
-I'm a data scientist with a strong interdisciplinary background, currently pursuing a master’s degree in Statistical Computing Applied to Data Science at _Mathematics Research Center_ (more info at [*Maestria en Computo Estadistico CIMAT Monterrey*](https://mce.cimat.mx/es)). My expertise lies in statistical learning methods, machine learning models, and big data frameworks. I'm particularly interested in leveraging these skills to develop scalable IT solutions, analyze complex data, and drive innovation in industries such as bioinformatics, healthcare, pharmaceutical research, and IT.
+I'm a Jr. Data Scientist with a strong interdisciplinary background. I started my data analytics path during my undergraduate internships, where I analyzed environmental and biochemical data, managed scientific databases, and supported data-driven research in ecotoxicology and public health. Then I decided to formally start my career path at the MSc in Statistical Computing at the _Mathematics Research Center_ (more info at [*Maestria en Computo Estadistico CIMAT Monterrey*](https://mce.cimat.mx/es)), where I developed expertise in data analysis, statistical learning, machine learning, and big data frameworks. As part of my final semester, I worked as a statistical modeling consultant for the [Mechanical and Industrial Engineering Division](https://www.ingenieria.unam.mx/dimei/) at the National Autonomous University of Mexico, where I designed and implemented a Bayesian network to analyze the effectiveness of a water disinfection process. 
 
-I'm also working on improving my data visualization skills using Tableau (click [here](https://public.tableau.com/app/profile/diego.godinez.bravo) to see my vizzes).
+I'm currently expanding my technical toolkit by pursuing the IBM Data Engineering Professional Certificate to deepen my understanding of scalable data infrastructure and pipelines. I'm also working on improving my data visualization skills using Tableau (click [here](https://public.tableau.com/app/profile/diego.godinez.bravo) to see my vizzes).
 
-Since my main goal is to create an online portfolio to show up my knowledge and try to solve real-world business problems, I'm creating this profile so you can see my learning path and growth as a data profesional.
+I’m actively seeking new opportunities where I can contribute to impactful, data-driven solutions.
 
 If you’re transitioning to data analytics like me, follow and let’s grow togheter! 💐
 
@@ -16,8 +16,8 @@ If you’re transitioning to data analytics like me, follow and let’s grow tog
 
 ## Data Science Toolkit 🧰
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -27,9 +27,9 @@ If you’re transitioning to data analytics like me, follow and let’s grow tog
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
