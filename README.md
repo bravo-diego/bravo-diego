@@ -12,7 +12,7 @@ I’m actively seeking new opportunities where I can contribute to impactful, da
 
 If you’re transitioning to data analytics like me, follow and let’s grow togheter! 💐
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bravo-diego/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bravo-diego/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/diegogodinezbravo/)
 
 ## Data Science Toolkit 🧰
 
